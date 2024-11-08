@@ -1,4 +1,4 @@
-// Code Challenge 7 November 2024
+// Code Challenge 8 November 2024
 // By Codewars
 // https://www.codewars.com/kata/563a631f7cbbc236cf0000c2/
 
